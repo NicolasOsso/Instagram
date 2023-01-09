@@ -54,9 +54,6 @@
 
 /* Formulario */
 
-.identificação__principal{
-
-}
 
 .identificação__principal input{
     width: 100%;
@@ -139,8 +136,8 @@ hr{
     font-size: 14px;
 }
 
-/* Esqueci a*/
-.{
+/* Esqueci a senha */
+.senha-esquecida{
     text-decoration: none;
     color: var(--cor-link-facebook);
     font-weight: 1000;
@@ -149,11 +146,11 @@ hr{
 
 
 /* Card 2 */
-{
+.nao-tem-conta{
     color: var(--preto);
     font-weight: bold;
 }
-. .cadastre-se{
+.nao-tem-conta .cadastre-se{
     text-decoration: none;
     color: var(--cor-do-botao);
     font-weight: 1000;
