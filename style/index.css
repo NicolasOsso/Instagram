@@ -37,7 +37,7 @@
     padding: 2.5em;
     text-align: center;
     margin-left: 1em;
-    color: var(--branco);
+    background-color: rgb(255, 255, 255);
     max-width: 450px;
 }
 .card:nth-child(2){
