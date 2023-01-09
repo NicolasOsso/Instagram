@@ -42,6 +42,7 @@
 }
 .card:nth-child(2){
     padding: 1em;
+    margin-top: 0.5em;
 }
 
 
