@@ -139,8 +139,8 @@ hr{
     font-size: 14px;
 }
 
-/* Esqueci a senha */
-.senha-esquecida{
+/* Esqueci a*/
+.{
     text-decoration: none;
     color: var(--cor-link-facebook);
     font-weight: 1000;
@@ -149,11 +149,11 @@ hr{
 
 
 /* Card 2 */
-.nao-tem-conta{
+{
     color: var(--preto);
     font-weight: bold;
 }
-.nao-tem-conta .cadastre-se{
+. .cadastre-se{
     text-decoration: none;
     color: var(--cor-do-botao);
     font-weight: 1000;
